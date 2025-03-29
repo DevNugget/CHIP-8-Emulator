@@ -4,6 +4,11 @@ CHIP 8 emulator written in C++
 # Compiling The Emulator Yourself
 If you would like to compile the emulator yourself, follow the steps mentioned below.
 
+## Prerequisite
+- Mingw (For GCC/G++)
+- Make
+
+## Steps
 1. Clone this repository to your computer.
   `git clone https://github.com/DevNugget/CHIP-8-Emulator`
 2. Download SDL3-devel-3.2.8-mingw.zip from the [SDL GitHub repository](https://github.com/libsdl-org/SDL/releases/tag/release-3.2.8)
